@@ -31,7 +31,7 @@ export const Contact = ()=>{
                                 <Form.Control type="email" placeholder="Email" style={style}/>
                                 <Form.Control as="textarea" rows={6} placeholder="Description" style={{width:"1060px",marginLeft:"35px"}}/>
                             </Form.Group>
-                            <button style={{width:"20%",textAlign:"center",float:"right",marginRight:"290px"}} type="submit" class="btn btn-dark mb-3 ms-2">Submit</button>
+                            <button style={{width:"20%",textAlign:"center",float:"right",marginRight:"290px"}} type="submit" class="btn btn-success mb-3 ms-2">Submit</button>
                         </Form>
                     </div>
                     

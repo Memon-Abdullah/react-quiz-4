@@ -8,7 +8,7 @@ import p4 from "../assets/images/img-4@2x.jpg.png";
 export const Benifits = ()=>{
     return(
         <>
-            <div className="container mt-5 pb-5">
+            <div className="container mt-5 pb-5 ">
                 <h1 className="text-center mb-5"> BENIFITS </h1>
                 <div className="row">
                     <div className="col-lg-6 col-md-6 col-sm-12">   
