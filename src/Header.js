@@ -8,7 +8,7 @@ import brand from './assets/images/brand.png';
 export const Header = ()=>{
     return(
         <>
-             <Navbar expand="lg" className="bg-body-tertiary">
+             <Navbar expand="lg" className="bg-body-tertiary mb-5">
                 <Container fluid>
                     <Navbar.Brand href="#"><img src={brand}/></Navbar.Brand>
                     <Navbar.Toggle aria-controls="navbarScroll" />
