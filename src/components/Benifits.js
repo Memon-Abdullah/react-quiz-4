@@ -12,60 +12,62 @@ export const Benifits = ()=>{
                 <h1 className="text-center"> BENIFITS </h1>
                 <div className="row">
                     <div className="col-lg-6 col-md-6 col-sm-12">   
-                        <h2>Create content in minutes, not months</h2>
-                        <p>
+                        <h1>Create content in minutes, not months</h1>
+                        <h3>
                         Create original content that actually sounds like your company wrote it.
                         <br/>
                         Writer is the only AI writing platform that can be trained on your own best-performing content and brand guidelines.
                         <br/>
                         it's <span style={{color:"light-green"}}>your on AI</span>specifically tuned for your team’s unique use cases.
-                        </p>
+                        </h3>
                     </div>
                     <div className="col-lg-6 col-md-6 col-sm-12">   
                          <img className="img-fluid rounded" src={p1} />
                     </div>
                 </div>
-                <div className="row">
+                <div className="row mt-5 py-5">
                     <div className="col-lg-6 col-md-6 col-sm-12">
-                       <h2>Create content in minutes, not months</h2>
-                        <p>
+                       <h1>Create content in minutes, not months</h1>
+                        <h3>
                         Create original content that actually sounds like your company wrote it.
                         <br/>
                         Writer is the only AI writing platform that can be trained on your own best-performing content and brand guidelines.
                         <br/>
-                        it's <span style={{color:"light-green"}}>your on AI</span>specifically tuned for your team’s unique use cases.
-                        </p>   
+                        it's <span style={{color:"green"}}>your on AI </span> specifically tuned for your team’s unique use cases.
+                        </h3>   
                     </div>
                     <div className="col-lg-6 col-md-6 col-sm-12">   
                     <img className="img-fluid rounded" src={p2} />
                     </div>
                 </div>
-                <div className="row">
+                <div className="row mt-5 py-5">
                     <div className="col-lg-6 col-md-6 col-sm-12"> 
-                    <h2>Create content in minutes, not months</h2>
-                        <p>
+                    <h1>Create content in minutes, not months</h1>
+                        <h3>
                         Create original content that actually sounds like your company wrote it.
                         <br/>
                         Writer is the only AI writing platform that can be trained on your own best-performing content and brand guidelines.
                         <br/>
-                        it's <span style={{color:"light-green"}}>your on AI</span>specifically tuned for your team’s unique use cases.
-                        </p>  
+                        it's <span style={{color:"green"}}>your on AI</span>specifically tuned for your team’s unique use cases.
+                        </h3>  
                     </div>
                     <div className="col-lg-6 col-md-6 col-sm-12">   
+                     <img className="img-fluid rounded" src={p3} />
                     </div>
                 </div>
                 <div className="row">
                     <div className="col-lg-6 col-md-6 col-sm-12">  
-                        <h2>Create content in minutes, not months</h2>
-                        <p>
+                        <h1>Create content in minutes, not months</h1>
+                        <h3>
                         Create original content that actually sounds like your company wrote it.
                         <br/>
                         Writer is the only AI writing platform that can be trained on your own best-performing content and brand guidelines.
                         <br/>
-                        it's <span style={{color:"light-green"}}>your on AI</span>specifically tuned for your team’s unique use cases.
-                        </p> 
+                        it's <span style={{color:"green"}}>your on AI</span>specifically tuned for your team’s unique use cases.
+                        </h3> 
                     </div>
-                    <div className="col-lg-6 col-md-6 col-sm-12">   
+                    <div className="col-lg-6 col-md-6 col-sm-12">  
+                        <img className="img-fluid rounded" src={p4} /> 
                     </div>
                 </div>
             </div>
